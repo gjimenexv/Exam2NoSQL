@@ -1,0 +1,21 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Proyecto2/Ferreteria.AccesoADatos/bin/Debug
+/Proyecto2/Ferreteria.Model/bin/Debug
+/Proyecto2/Proyecto2/bin/Debug
+/Proyecto2/Ferreteria.AccesoADatos/obj/Debug
+/Proyecto2/.vs/Proyecto2/v16
+/Proyecto2/Proyecto2/obj/Debug
+/Proyecto2/packages
+/Proyecto2/Ferreteria.Model/obj/Debug
+Proyecto2/Proyecto2/Core/Compression/Snappy/lib/win/snappy32.dll
+Proyecto2/Proyecto2/Core/Compression/Snappy/lib/win/snappy64.dll
+Proyecto2/Proyecto2/Core/Compression/Zstandard/lib/win/libzstd.dll
+Proyecto2/Ferreteria.AccesoADatos/Core/Compression/Snappy/lib/win/snappy32.dll
+Proyecto2/Ferreteria.AccesoADatos/Core/Compression/Snappy/lib/win/snappy64.dll
+Proyecto2/Ferreteria.AccesoADatos/Core/Compression/Zstandard/lib/win/libzstd.dll
+Proyecto2/Ferreteria.Model/Core/Compression/Snappy/lib/win/snappy32.dll
+Proyecto2/Ferreteria.Model/Core/Compression/Snappy/lib/win/snappy64.dll
+Proyecto2/Ferreteria.Model/Core/Compression/Zstandard/lib/win/libzstd.dll
